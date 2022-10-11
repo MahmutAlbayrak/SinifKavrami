@@ -1,0 +1,15 @@
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\bin\Debug\net6.0\SinifKavrami.exe
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\bin\Debug\net6.0\SinifKavrami.deps.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\bin\Debug\net6.0\SinifKavrami.runtimeconfig.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\bin\Debug\net6.0\SinifKavrami.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\bin\Debug\net6.0\SinifKavrami.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.csproj.AssemblyReference.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.AssemblyInfoInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.AssemblyInfo.cs
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.csproj.CoreCompileInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\obj\Debug\net6.0\refint\SinifKavrami.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.genruntimeconfig.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\SinifKavrami\obj\Debug\net6.0\ref\SinifKavrami.dll
